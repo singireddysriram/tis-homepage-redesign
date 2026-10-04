@@ -34,3 +34,64 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Tulas International School — Homepage Redesign
+
+A modern, responsive redesign of the Tulas International School homepage, created as a frontend development assessment.
+
+## Live Demo
+
+Coming soon.
+
+## GitHub Repository
+
+Coming soon.
+
+## Tech Stack
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Features
+
+- Responsive design for mobile, tablet and desktop
+- Modern TIS-inspired visual design
+- Scroll-triggered reveal animations
+- Custom cursor on desktop
+- Scroll progress indicator
+- Responsive mobile navigation
+- Optimized hero image using Next.js Image
+- Semantic HTML structure
+- Smooth hover interactions
+
+## Sections
+
+- Navigation
+- Hero
+- The TIS Experience
+- Campus Statistics
+- Academics
+- Campus Life
+- Admissions
+- Footer
+
+## Project Structure
+
+```text
+src/
+├── app/
+│   ├── globals.css
+│   ├── layout.js
+│   └── page.js
+│
+└── components/
+    ├── animation/
+    │   └── Reveal.jsx
+    │
+    └── ui/
+        ├── CustomCursor.jsx
+        └── ScrollProgress.jsx
