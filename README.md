@@ -41,11 +41,11 @@ A modern, responsive redesign of the Tulas International School homepage, create
 
 ## Live Demo
 
-Coming soon.
+https://tis-homepage-redesign-lilac-three.vercel.app/
 
 ## GitHub Repository
 
-Coming soon.
+https://github.com/singireddysriram/tis-homepage-redesign
 
 ## Tech Stack
 
